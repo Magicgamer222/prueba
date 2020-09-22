@@ -1,0 +1,22 @@
+.titulo{
+    background-color: rgb(97, 1, 1);
+    color: white;
+    text-align: center;
+}
+.tipo{
+    text-align: center;
+    font-size: 350%;
+    color: rgb(97, 1, 1) ;
+}
+.comida{
+    font-size: 200%;
+    width: max-content;
+}
+.precio{
+    text-align: right;
+    width: 35%;
+}
+table{
+    margin-top: 2%;
+    margin-left: 6%;
+}
